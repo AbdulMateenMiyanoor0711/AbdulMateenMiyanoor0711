@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Mateen Anis Miyanoor</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<a><img src="https://komarev.com/ghpvc/?username=naeemghadai&label=Profile%20views&color=0e75b6&style=flat" alt="naeemghadai" height="20"/></a> 
-<a href="https://twitter.com/ghadainaeem" target="blank"><img src="https://img.shields.io/twitter/follow/ghadainaeem?logo=twitter&style=for-the-badge" alt="ghadainaeem" height="20"/></a>
+<a><img src="https://komarev.com/ghpvc/?username=AbdulMateenMiyanoor0711&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulMateenMiyanoor0711" height="20"/></a> 
+<a href="https://twitter.com/AbdulMateenMiyanoor0711" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulMateenMiyanoor0711 ?logo=twitter&style=for-the-badge" alt="AbdulMateenMiyanoor0711" height="20"/></a>
 
 
 - 🔭 I’m currently looking for new  **opportunities**
