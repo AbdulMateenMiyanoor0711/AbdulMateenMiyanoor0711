@@ -20,3 +20,9 @@
 - 📫 How to reach me **mateenmiyanoor0722@gmail.com**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gduNPQ64SM5tddH93mFVs0GuPxOSN0Rs/view?usp=sharing) -->
+## My Projects
+
+<a align="left"  target="_blank">
+<img width="952" height="500" alt="image" src="https://github.com/user-attachments/assets/6909931d-3d28-4167-89d7-3a3aca8f1792" />
+</a>
+&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;
