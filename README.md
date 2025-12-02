@@ -113,6 +113,8 @@
   </a>
 </p>
 
+
+
 ## Languages and Tools
 
 <h4>Languages</h4>
@@ -154,7 +156,6 @@
   <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome devtools" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
 </p>
 
 <h4>Libraries</h4>
@@ -163,5 +164,3 @@
   <img src="https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logo=react&logoColor=white" alt="Recharts" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
-
-
