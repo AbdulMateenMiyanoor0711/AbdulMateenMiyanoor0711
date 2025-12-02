@@ -62,6 +62,42 @@
 </table>
 
 
+## My Projects
+
+### Resume
+**Stack:** HTML and CSS
+<br>
+<a href="#" target="_blank">
+  <img src="https://github.com/user-attachments/assets/6909931d-3d28-4167-89d7-3a3aca8f1792" alt="Resume Project" width="100%" />
+</a>
+
+<br><br>
+
+### Click Counter
+**Stack:** HTML, CSS, and JavaScript
+<br>
+<a href="#" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4a9f8d28-e5ae-4559-bf4a-873616382d21" alt="Click Counter" width="100%" />
+</a>
+
+<br><br>
+
+### Temperature Converter
+**Stack:** HTML, CSS, and JavaScript
+<br>
+<a href="#" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b47e1fda-46d3-4f3e-827f-5611e7a541dc" alt="Temperature Converter" width="100%" />
+</a>
+
+<br><br>
+
+### Random Quote Generator
+**Stack:** HTML, CSS, and JavaScript
+<br>
+<a href="#" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b5f14d87-93d0-41f9-afba-e3461fd37ef5" alt="Random Quote Generator" width="100%" />
+</a>
+
 
 
 ## My Projects
