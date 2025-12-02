@@ -23,7 +23,7 @@
 ## My Projects
 
 <table>
-  <tr>
+  <tc>
     <td width="50%">
       <h3 align="center">Resume</h3>
       <div align="center">Using HTML and CSS</div>
@@ -58,7 +58,7 @@
         <img src="https://github.com/user-attachments/assets/b5f14d87-93d0-41f9-afba-e3461fd37ef5" alt="Random Quote Generator Project" width="100%">
       </a>
     </td>
-  </tr>
+  </tc>
 </table>
 
 
