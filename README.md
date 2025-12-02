@@ -164,3 +164,28 @@
   <img src="https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logo=react&logoColor=white" alt="Recharts" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
+
+## Github Stats
+
+<div align="center">
+  <a href="https://github.com/AbdulMateenMiyanoor0711">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdulMateenMiyanoor0711&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/AbdulMateenMiyanoor0711">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMateenMiyanoor0711&theme=radical" height="150" alt="streak graph" />
+  </a>
+  
+  <br>
+  
+  <a href="https://github.com/AbdulMateenMiyanoor0711">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulMateenMiyanoor0711&layout=compact&theme=radical" height="150" alt="languages graph" />
+  </a>
+</div>
+
+## Github Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbdulMateenMiyanoor0711&theme=radical&no-frame=true&margin-w=15" alt="trophies" />
+  </a>
+</div>
