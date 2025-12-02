@@ -53,57 +53,19 @@
 
 </div>
 
+## Coding Time
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdulMateen07&compact=True" height="400" />
+</div>
+
+## Coding Challenges
+<div align="center">
+  <a href="https://www.codewars.com/users/MateenMemon22" target="_blank">
+    <img src="https://www.codewars.com/users/MateenMemon22/badges/large" alt="Codewars Stats" />
+  </a>
+</div>
 
 
 
 
 
-
-## My Projects
-
-<table>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <h3>Resume</h3>
-      <p>A structured resume built using pure HTML and CSS.</p>
-    </td>
-    <td width="70%">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6909931d-3d28-4167-89d7-3a3aca8f1792" alt="Resume" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <h3>Click Counter</h3>
-      <p>Interactive counter application using JavaScript.</p>
-    </td>
-    <td width="70%">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4a9f8d28-e5ae-4559-bf4a-873616382d21" alt="Click Counter" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <h3>Temperature Converter</h3>
-      <p>Converts values between Celsius and Fahrenheit in real-time.</p>
-    </td>
-    <td width="70%">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b47e1fda-46d3-4f3e-827f-5611e7a541dc" alt="Temp Converter" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <h3>Random Quote Generator</h3>
-      <p>Fetches and displays random quotes on button click.</p>
-    </td>
-    <td width="70%">
-      <a href="#" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b5f14d87-93d0-41f9-afba-e3461fd37ef5" alt="Quote Generator" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
