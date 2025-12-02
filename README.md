@@ -97,7 +97,7 @@
   </a>
   
   <a href="https://www.codewars.com/users/MateenMemon22" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="codewars" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/codewars/codewars-icon.svg" alt="codewars" height="30" width="40" />
   </a>
 
   <a href="https://leetcode.com/u/IHLydVCIPd/" target="_blank">
