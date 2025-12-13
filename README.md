@@ -54,8 +54,8 @@
   <h3>Expense Tracker</h3>
   <p>Using HTML, CSS, JavaScript and React</p>
   <a href="#" target="_blank">
-    <img width="1920" height="1200" alt="Screenshot 2025-12-11 192030" src="https://github.com/user-attachments/assets/ecb5f670-811e-4e66-b775-7cad392cb93b" />
-
+   <img width="1884" height="1003" alt="Screenshot 2025-12-13 122923" src="https://github.com/user-attachments/assets/b154d7fd-bc48-48ef-af2e-3b91280f9aa6" />
+   <img width="1879" height="992" alt="Screenshot 2025-12-13 122943" src="https://github.com/user-attachments/assets/22e36972-e1ce-4f3a-956d-f1ad50b5718c" />
   </a>
   <br><br><br>
 
