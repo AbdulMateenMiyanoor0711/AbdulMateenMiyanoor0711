@@ -51,6 +51,14 @@
     <img src="https://github.com/user-attachments/assets/b5f14d87-93d0-41f9-afba-e3461fd37ef5" alt="Random Quote Generator Project" width="80%">
   </a>
 
+  <h3>Expense Tracker</h3>
+  <p>Using HTML, CSS, JavaScript and React</p>
+  <a href="#" target="_blank">
+    <img width="1920" height="1200" alt="Screenshot 2025-12-11 192030" src="https://github.com/user-attachments/assets/ecb5f670-811e-4e66-b775-7cad392cb93b" />
+
+  </a>
+  <br><br><br>
+
 </div>
 
 ## Coding Time
